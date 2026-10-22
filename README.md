@@ -97,9 +97,7 @@ npm run dev
 ## Default Staff Login Credentials
 
 - **URL:** [http://localhost:3000/admin/login](http://localhost:3000/admin/login)
-- **Email:** `admin@barba.co`
-- **Password:** `admin123`
-*(There is also a convenient "Click here to prefill demo credentials" button directly on the login screen)*
+
 
 ---
 
